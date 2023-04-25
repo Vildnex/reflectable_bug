@@ -1,0 +1,9 @@
+name: reflectable_bug
+description: A minimal example using reflectable with Dart.
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  reflectable: any
+  build_runner: any
+  built_value_generator: any
