@@ -4,6 +4,6 @@ environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  reflectable: any
-  build_runner: any
-  built_value_generator: any
+  reflectable: 4.0.5
+  build_runner: 2.3.3
+  built_value_generator: 8.4.4
